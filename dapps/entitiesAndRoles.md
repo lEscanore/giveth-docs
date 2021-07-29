@@ -150,7 +150,7 @@ Campaigns are in the middle of Giveth donation system. They are effectively tool
 
 Donations made to a Campaign are locked and unless the Campaign gets cancelled, the Giver no longer has control over the donation. The reason we lock the donations is to give the people behind the Campaign some level of certainty that they can count on getting the pledged donations and pledge them to one of their Traces.
 
-<img alt="Campaign Donation state diagram" src={useBaseUrl('img/content/trace/dcampaign-donation-statediagram.svg')} />
+<img alt="Campaign Donation state diagram" src={useBaseUrl('img/content/trace/campaign-donation-statediagram.svg')} />
 
 ##### **State diagram for donations made to Campaign.**
 

@@ -11,7 +11,7 @@ Giveth is re-engineering charitable giving, by creating entirely free, open-sour
 <img alt="Giveth TRACE home page" src={useBaseUrl('img/content/trace/tracefrontpage.png')} />
 
 ## Current Status
-The [Giveth TRACE DApp](https://beta.giveth.io) is currently live in *beta* stage on the Ethereum mainnet, bridged to Rinkeby testnet. We are in active development on the DApp and aiming for a post-beta release in the coming months. The best way to reach out to our team is via [Discord](https://discord.gg/GMQFKmdSGy), feel free to drop in and say hello!
+The [Giveth TRACE DApp](https://trace.giveth.io) is currently live on the Ethereum mainnet, bridged to Rinkeby testnet. We are in active development on the DApp and aiming for a post-beta release in the coming months. The best way to reach out to our team is via [Discord](https://discord.gg/GMQFKmdSGy), feel free to drop in and say hello!
 
 
 New Projects are currently being added onto Giveth TRACE by a case-by-case vetting process. If you have a simple project looking for funding try out [Giveth.io](https://giveth.io). If you have a community, cause or project that is more complex, and perhaps requiring greater transparency and traceability then get in touch with us on [Discord](https://discord.gg/qf7XZ48gCU).
@@ -34,4 +34,4 @@ When you're sending real funds, to any entity on Giveth TRACE, you do it with Et
 To learn more about the Giveth Bridge head over to the documentation **here**(will add internal link). There is also a [wonderful medium article](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060) from 2017, that identifies the major scalability issues of that era in crypto and how we found a solution.
 
 ### Development
-You can follow the development on [Github](https://github.com/Giveth/giveth-dapp), read more in this documentation(add internal link) or join our contributors channel in [Discord](https://discord.gg/qf7XZ48gCU). Our meetings are on the [Giveth calendar](https://calendar.google.com/calendar/embed?src=givethdotio@gmail.com&pli=1) and you are welcome to join!
+You can follow the development on [Github](https://github.com/Giveth/giveth-dapp), read our regular [updates on Medium](https://medium.com/giveth) or join our contributors channel in [Discord](https://discord.gg/qf7XZ48gCU). Our meetings are on the [Giveth calendar](https://calendar.google.com/calendar/embed?src=givethdotio@gmail.com&pli=1) and you are welcome to join!
